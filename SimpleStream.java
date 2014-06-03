@@ -28,7 +28,7 @@ public class SimpleStream {
      //   final SentimentClassifier sentClassifier=new SentimentClassifier(); 
  //creating database conncetivity
         
-        String  passwd="pankaj14";
+        String  passwd="ur db password";
     	
  
         try{
